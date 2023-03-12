@@ -6,6 +6,7 @@ body {
     width: 1000px;
     padding: 0;
     font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
 }
 
 body div {
@@ -36,6 +37,7 @@ body div {
 }
 
 .navy-blue .holder {
+    padding: 16px;
     max-width: 750px;
     border: 2px solid red;
 }
@@ -51,4 +53,18 @@ body div {
 
 .navy-blue h3 {
     font-size: 20px;
+    margin: 0;
+}
+
+.navy-blue .header {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 16px;
 }
