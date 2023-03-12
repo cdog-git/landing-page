@@ -2,8 +2,8 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0 auto;
-    height: 150vh;
-    width: 90vw;
+    height: 1500px;
+    width: 1000px;
     padding: 0;
     font-family: "Roboto", sans-serif;
 }
