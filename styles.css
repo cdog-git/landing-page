@@ -29,8 +29,15 @@ body div {
 /* First Section */
 
 .navy-blue {
+    display: flex;
     color: #e5e7eb;
     font-size: 14px;
+    justify-content: center;
+}
+
+.navy-blue .holder {
+    max-width: 750px;
+    border: 2px solid red;
 }
 
 .navy-blue h1, .navy-blue h3{
