@@ -23,3 +23,25 @@ body div {
 .gray {
     background-color: #e5e7eb;
 }
+
+
+
+/* First Section */
+
+.navy-blue {
+    color: #e5e7eb;
+    font-size: 14px;
+}
+
+.navy-blue h1, .navy-blue h3{
+    color: #f9faf8;
+}
+
+.navy-blue h1 {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.navy-blue h3 {
+    font-size: 20px;
+}
