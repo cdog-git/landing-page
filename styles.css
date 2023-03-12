@@ -109,8 +109,42 @@ ul {
 .white.one {
     color: #1f2937;
     font-size: 14px;
+    display: flex;
+    justify-content: center;
+}
+
+.white.one .holder {
+    padding: 28px;
+    max-width: 750px;
 }
 
 .white.one h2 {
     font-size: 28px;
+    margin: 0;
+    text-align: center;
 }
+
+.white.one .content {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 28px;
+    width: 625px;
+}
+
+.white.one .box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    max-width: 125px;
+    padding: 0;
+}
+
+.white.one .box div {
+    border: 4px solid #3882f6;
+    border-radius: 12px;
+    min-height: 125px;
+    width: 125px;
+}
+
