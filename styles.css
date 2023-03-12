@@ -32,14 +32,15 @@ body div {
 .navy-blue {
     display: flex;
     color: #e5e7eb;
-    font-size: 14px;
+    font-size: 15px;
     justify-content: center;
 }
 
 .navy-blue .holder {
+    display: flex;
+    flex-direction: column;
     padding: 16px;
     max-width: 750px;
-    border: 2px solid red;
 }
 
 .navy-blue h1, .navy-blue h3{
@@ -49,6 +50,7 @@ body div {
 .navy-blue h1 {
     font-size: 36px;
     font-weight: bold;
+    margin: 0;
 }
 
 .navy-blue h3 {
@@ -56,15 +58,46 @@ body div {
     margin: 0;
 }
 
+.navy-blue p {
+    margin: 8px 0;
+}
+
 .navy-blue .header {
     display: flex;
     justify-content: space-between;
+    flex: none;
 }
 
 ul {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    display: flex;
+    gap: 16px;
+}
+
+.navy-blue .content {
+    display: flex;
+    align-items: center;
+}
+
+.navy-blue button {
+    padding: 3px 18px;
+    color: #f9faf8;
+    background-color: #3882f6;
+    border: 0;
+    border-radius: 4px;
+}
+
+.navy-blue .image {
+    background-color: rgba(255, 255, 255, .3);
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navy-blue .height-align {
     display: flex;
     gap: 16px;
 }
