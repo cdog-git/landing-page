@@ -101,3 +101,16 @@ ul {
     display: flex;
     gap: 16px;
 }
+
+
+
+/* Second Section */
+
+.white.one {
+    color: #1f2937;
+    font-size: 14px;
+}
+
+.white.one h2 {
+    font-size: 28px;
+}
