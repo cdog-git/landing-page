@@ -1,1 +1,3 @@
 # landing-page
+
+Hello Everyone, welcome to my second official project with TOP! This time around, I am making an entire webpage out of a provided design by TOP! I will be demonstrating essentially all I know of CSS up until the Flexbox section, as well as refine my use of HTML in this project. Additionally, I would like to note that any media or resources used in this project are not owned by me and any used will be linked to in one of the text files attached to this project, please go and support the original creators! With that being said, I hope you enjoy viewing this project!
