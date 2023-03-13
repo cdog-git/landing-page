@@ -222,5 +222,6 @@ ul {
 .white.two .footer {
     background-color: #1f2937;
     flex: none;
+    text-align: center;
+    padding: 28px;
 }
-
