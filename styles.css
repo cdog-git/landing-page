@@ -148,3 +148,16 @@ ul {
     width: 125px;
 }
 
+
+
+/* Third Section */
+
+.gray {
+    color: #1f2937;
+}
+
+.gray p {
+    font-size: 24px;
+    font-style: italic;
+    width: 60%;
+}
