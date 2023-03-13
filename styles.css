@@ -178,18 +178,49 @@ ul {
 
 /* Fourth Section */
 
+.white.two {
+    display: flex;
+    flex-direction: column;
+}
+
+.white.two .title {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.white.two p {
+    margin: 0;
+    font-size: 12px;
+}
+
+.white.two .holder {
+    min-width: 750px;
+    align-self: center;
+    display: flex;
+    align-items: center;
+}
+
 .white.two, .white.two button {
     color: #f9faf8;
 }
 
 .white.two .content {
     background-color: #3882f6;
+    display: flex;
+    align-items: center;
+    padding: 36px 96px;
+    border-radius: 6px;
 }
 
 .white.two button {
     background-color: #3882f6;
+    padding: 3px 18px;
+    border: 1px solid #f9faf8;
+    border-radius: 4px;
 }
 
 .white.two .footer {
     background-color: #1f2937;
+    flex: none;
 }
+
