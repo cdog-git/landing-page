@@ -82,7 +82,7 @@ ul {
 }
 
 .navy-blue button {
-    padding: 3px 18px;
+    padding: 5px 20px;
     color: #f9faf8;
     background-color: #3882f6;
     border: 0;
@@ -214,7 +214,7 @@ ul {
 
 .white.two button {
     background-color: #3882f6;
-    padding: 3px 18px;
+    padding: 5px 20px;
     border: 1px solid #f9faf8;
     border-radius: 4px;
 }
