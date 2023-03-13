@@ -173,3 +173,23 @@ ul {
 .gray .holder {
     max-width: 600px;
 }
+
+
+
+/* Fourth Section */
+
+.white.two, .white.two button {
+    color: #f9faf8;
+}
+
+.white.two .content {
+    background-color: #3882f6;
+}
+
+.white.two button {
+    background-color: #3882f6;
+}
+
+.white.two .footer {
+    background-color: #1f2937;
+}
